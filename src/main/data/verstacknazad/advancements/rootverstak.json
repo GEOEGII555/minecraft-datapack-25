@@ -1,0 +1,22 @@
+{
+  "display": {
+    "background": "minecraft:textures/block/stone.png",
+    "icon": {
+      "item": "minecraft:emerald_block"
+    },
+    "title": "Начало ачивок верстака нааборот",
+    "description": "Начало ачивок верстака нааборот",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "rootverstak": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "rewards": {
+    "experience": 1
+  }
+}
