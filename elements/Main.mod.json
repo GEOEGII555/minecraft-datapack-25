@@ -1,0 +1,9 @@
+{
+  "_fv": 18,
+  "_type": "function",
+  "definition": {
+    "code": "######################\n#    GEOEGII555      #\n######################\n\nexecute as @e[name=\"verstak naaborot\"] run execute at @s run summon armor_stand ~ ~ ~ {Tags:[\"naaborotverstak\"],Small:1,Invisible:1,NoAI:1,NoGravity:1}\nexecute as @e[name=\"verstak naaborot\"] run execute at @s run setblock ~ ~ ~ crafting_table\nexecute as @e[name=\"verstak naaborot\"] run execute at @s run kill @s",
+    "name": "main",
+    "namespace": "mod"
+  }
+}

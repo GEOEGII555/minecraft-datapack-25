@@ -45,6 +45,15 @@
       "locked_code": true,
       "ids": {},
       "registry_name": "verstaknaoborotcraft"
+    },
+    {
+      "name": "Main",
+      "type": "function",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "main"
     }
   ],
   "variable_elements": [],
