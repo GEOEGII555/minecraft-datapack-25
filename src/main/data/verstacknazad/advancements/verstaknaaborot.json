@@ -3,11 +3,11 @@
     "icon": {
       "item": "minecraft:crafting_table"
     },
-    "title": "Верстак нааборот",
+    "title": "Верстак наоборот",
     "description": "Что-бы сделать верстак-наоборот Выкиньте на обычный верстак 1х алмаз и 1х наковальня",
-    "frame": "task",
-    "show_toast": false,
-    "announce_to_chat": false,
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
     "hidden": false
   },
   "criteria": {

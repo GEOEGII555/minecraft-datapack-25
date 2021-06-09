@@ -2,21 +2,21 @@
   "_fv": 18,
   "_type": "achievement",
   "definition": {
-    "achievementName": "Верстак нааборот",
+    "achievementName": "Верстак наоборот",
     "achievementDescription": "Что-бы сделать верстак-наоборот Выкиньте на обычный верстак 1х алмаз и 1х наковальня",
     "achievementIcon": {
       "value": "Blocks.CRAFTING_TABLE"
     },
     "background": "Default",
     "disableDisplay": false,
-    "showPopup": false,
-    "announceToChat": false,
+    "showPopup": true,
+    "announceToChat": true,
     "hideIfNotCompleted": false,
     "rewardLoot": [],
     "rewardRecipes": [],
     "rewardFunction": "No function",
     "rewardXP": 0,
-    "achievementType": "task",
+    "achievementType": "goal",
     "parent": {
       "value": "CUSTOM:Rootverstak"
     },
