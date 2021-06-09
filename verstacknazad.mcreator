@@ -1,6 +1,25 @@
 {
   "id_map": {},
-  "mod_elements": [],
+  "mod_elements": [
+    {
+      "name": "TickFunctions",
+      "type": "tag",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tick_functions"
+    },
+    {
+      "name": "LoadFunctions",
+      "type": "tag",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "load_functions"
+    }
+  ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
