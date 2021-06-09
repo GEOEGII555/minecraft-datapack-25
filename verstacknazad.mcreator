@@ -18,6 +18,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "load_functions"
+    },
+    {
+      "name": "Sad",
+      "type": "function",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sad"
     }
   ],
   "variable_elements": [],
