@@ -36,6 +36,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "verstaknaaborot"
+    },
+    {
+      "name": "Verstaknaoborotcraft",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "verstaknaoborotcraft"
     }
   ],
   "variable_elements": [],
