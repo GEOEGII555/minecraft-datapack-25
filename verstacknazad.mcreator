@@ -57,6 +57,15 @@
       "metadata": {
         "ep": false
       }
+    },
+    {
+      "name": "Uncraft",
+      "type": "function",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "uncraft"
     }
   ],
   "variable_elements": [],

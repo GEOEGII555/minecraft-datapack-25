@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
-    "verstacknazad:main"
+    "verstacknazad:main",
+    "verstacknazad:uncraft"
   ]
 }

@@ -6,7 +6,8 @@
     "items": [],
     "blocks": [],
     "functions": [
-      "Main"
+      "Main",
+      "Uncraft"
     ],
     "entities": [],
     "name": "tick",
