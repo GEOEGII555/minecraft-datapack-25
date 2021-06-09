@@ -2,24 +2,6 @@
   "id_map": {},
   "mod_elements": [
     {
-      "name": "TickFunctions",
-      "type": "tag",
-      "sortid": 1,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "tick_functions"
-    },
-    {
-      "name": "LoadFunctions",
-      "type": "tag",
-      "sortid": 2,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "load_functions"
-    },
-    {
       "name": "Rootverstak",
       "type": "achievement",
       "sortid": 3,
@@ -54,6 +36,24 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "main"
+    },
+    {
+      "name": "TickFunctions",
+      "type": "tag",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tick_functions"
+    },
+    {
+      "name": "LoadFunctions",
+      "type": "tag",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "load_functions"
     }
   ],
   "variable_elements": [],
