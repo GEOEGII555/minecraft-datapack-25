@@ -1,0 +1,22 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:crafting_table"
+    },
+    "title": "Верстак нааборот",
+    "description": "Что-бы сделать верстак-наоборот Выкиньте на обычный верстак 1х алмаз и 1х наковальня",
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "verstaknaaborot": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "rewards": {
+    "experience": 0
+  },
+  "parent": "verstacknazad:rootverstak"
+}

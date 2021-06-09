@@ -27,6 +27,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "rootverstak"
+    },
+    {
+      "name": "Verstaknaaborot",
+      "type": "achievement",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "verstaknaaborot"
     }
   ],
   "variable_elements": [],
