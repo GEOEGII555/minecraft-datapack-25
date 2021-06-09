@@ -2,8 +2,8 @@
   "_fv": 18,
   "_type": "achievement",
   "definition": {
-    "achievementName": "Верстак наоборот",
-    "achievementDescription": "Что-бы сделать верстак-наоборот Выкиньте на обычный верстак 1х алмаз и 1х наковальня",
+    "achievementName": "Crafting table revers",
+    "achievementDescription": "To make a workbench, vice versa Throw out on a regular workbench 1x diamond and 1x anvil",
     "achievementIcon": {
       "value": "Blocks.CRAFTING_TABLE"
     },

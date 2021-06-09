@@ -2,10 +2,10 @@
   "_fv": 18,
   "_type": "achievement",
   "definition": {
-    "achievementName": "Начало ачивок верстака нааборот",
-    "achievementDescription": "Начало ачивок верстака нааборот",
+    "achievementName": "Start crafting table revers",
+    "achievementDescription": "Start crafting table revers",
     "achievementIcon": {
-      "value": "Blocks.EMERALD_BLOCK"
+      "value": "Blocks.CRAFTING_TABLE"
     },
     "background": "Default",
     "disableDisplay": false,

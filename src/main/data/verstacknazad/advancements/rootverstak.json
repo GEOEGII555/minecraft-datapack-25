@@ -2,10 +2,10 @@
   "display": {
     "background": "minecraft:textures/block/stone.png",
     "icon": {
-      "item": "minecraft:emerald_block"
+      "item": "minecraft:crafting_table"
     },
-    "title": "Начало ачивок верстака нааборот",
-    "description": "Начало ачивок верстака нааборот",
+    "title": "Start crafting table revers",
+    "description": "Start crafting table revers",
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,
