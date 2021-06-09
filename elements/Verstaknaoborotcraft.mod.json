@@ -38,7 +38,7 @@
       }
     ],
     "recipeReturnStack": {
-      "value": "Blocks.CRAFTING_TABLE"
+      "value": "Items.PARROT_SPAWN_EGG"
     },
     "name": "verstak_naoborot",
     "namespace": "mod"
