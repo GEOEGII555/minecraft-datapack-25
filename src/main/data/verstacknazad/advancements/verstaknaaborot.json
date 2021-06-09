@@ -6,8 +6,8 @@
     "title": "Crafting table revers",
     "description": "To make a workbench, vice versa Throw out on a regular workbench 1x diamond and 1x anvil",
     "frame": "goal",
-    "show_toast": true,
-    "announce_to_chat": true,
+    "show_toast": false,
+    "announce_to_chat": false,
     "hidden": false
   },
   "criteria": {
