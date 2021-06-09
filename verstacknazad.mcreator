@@ -45,6 +45,18 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "tick"
+    },
+    {
+      "name": "Verstak",
+      "type": "dimension",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "verstak",
+      "metadata": {
+        "ep": false
+      }
     }
   ],
   "variable_elements": [],
