@@ -38,22 +38,13 @@
       "registry_name": "main"
     },
     {
-      "name": "TickFunctions",
+      "name": "Tick",
       "type": "tag",
       "sortid": 7,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "tick_functions"
-    },
-    {
-      "name": "LoadFunctions",
-      "type": "tag",
-      "sortid": 8,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "load_functions"
+      "registry_name": "tick"
     }
   ],
   "variable_elements": [],
