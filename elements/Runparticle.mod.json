@@ -1,0 +1,9 @@
+{
+  "_fv": 18,
+  "_type": "function",
+  "definition": {
+    "code": "schedule function verstacknazad:runparticle 1s\nfunction verstacknazad:particle",
+    "name": "runparticle",
+    "namespace": "mod"
+  }
+}

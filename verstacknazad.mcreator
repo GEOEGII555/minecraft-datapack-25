@@ -84,6 +84,24 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "particle"
+    },
+    {
+      "name": "LoadFunctions",
+      "type": "tag",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "load_functions"
+    },
+    {
+      "name": "Runparticle",
+      "type": "function",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "runparticle"
     }
   ],
   "variable_elements": [],
