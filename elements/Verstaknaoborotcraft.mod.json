@@ -6,23 +6,23 @@
     "xpReward": 0.0,
     "cookingTime": 200,
     "recipeRetstackSize": 1,
-    "group": "",
+    "group": "sa",
     "recipeShapeless": true,
     "recipeSlots": [
       {
-        "value": "Blocks.CRAFTING_TABLE"
+        "value": ""
       },
       {
-        "value": "Blocks.ANVIL#0"
-      },
-      {
-        "value": "Items.DIAMOND"
+        "value": ""
       },
       {
         "value": ""
       },
       {
         "value": ""
+      },
+      {
+        "value": "Blocks.SMOOTH_SANDSTONE"
       },
       {
         "value": ""
@@ -38,9 +38,9 @@
       }
     ],
     "recipeReturnStack": {
-      "value": "Items.KNOWLEDGE_BOOK"
+      "value": "Blocks.STRIPPED_ACACIA_WOOD"
     },
-    "name": "verstak_naoborot",
+    "name": "verstaknaoborotcraft",
     "namespace": "mod"
   }
 }

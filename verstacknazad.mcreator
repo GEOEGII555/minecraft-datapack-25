@@ -20,15 +20,6 @@
       "registry_name": "verstaknaaborot"
     },
     {
-      "name": "Verstaknaoborotcraft",
-      "type": "recipe",
-      "sortid": 5,
-      "compiles": true,
-      "locked_code": true,
-      "ids": {},
-      "registry_name": "verstaknaoborotcraft"
-    },
-    {
       "name": "Main",
       "type": "function",
       "sortid": 6,
@@ -84,6 +75,15 @@
       "locked_code": true,
       "ids": {},
       "registry_name": "givetrigger"
+    },
+    {
+      "name": "Verstaknaoborotcraft",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "registry_name": "verstaknaoborotcraft"
     }
   ],
   "variable_elements": [],
