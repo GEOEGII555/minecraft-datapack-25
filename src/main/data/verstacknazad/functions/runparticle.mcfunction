@@ -1,2 +1,2 @@
 schedule function verstacknazad:runparticle 1s
-execute as @e[type=item,nbt={Item:{id:"minecraft:anvil",Count:1b}}] run execute at @s run execute if entity @e[type=item,distance=..0.702,nbt={Item:{id:"minecraft:diamond",Count:1}}] run function verstacknazad:particle
+execute as @e[type=item,nbt={Item:{id:"minecraft:anvil",Count:1b}}] run execute at @s run execute if entity @e[type=item,distance=..0.702,nbt={Item:{id:"minecraft:diamond",Count:1b}}] run function verstacknazad:particle
