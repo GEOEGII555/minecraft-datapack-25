@@ -3,7 +3,7 @@
   "_type": "achievement",
   "definition": {
     "achievementName": "Crafting table revers",
-    "achievementDescription": "To make a workbench, vice versa Throw out on a regular workbench 1x diamond and 1x anvil",
+    "achievementDescription": "To craft crafting table revers, open regular crafting table, and place crafting table, anvil and diamond. Place crafting table revers. You will see gold block, use it. Other normal gold block not working, only crafted by this. How to Uncraft: Drop on your crafting table (Appeared gold block) item you want to uncraft. Place lever on any of side or under gold block, and click. You done!",
     "achievementIcon": {
       "value": "Blocks.CRAFTING_TABLE"
     },
