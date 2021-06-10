@@ -12,12 +12,13 @@ execute as @e[tag=naaborotverstak] run execute at @s run execute positioned ~ ~1
 
 execute as @e[tag=naaborotverstak] run execute at @s run execute positioned ~ ~1 ~ run execute if entity @e[type=item,nbt={Item:{id:"minecraft:oak_planks",Count:4b}},distance=..0.25] run summon item ~ ~ ~ {Item:{id:"minecraft:oak_log",Count:1b}}
 
-execute as @e[tag=naaborotverstak] run execute at @s run execute positioned ~ ~1 ~ run execute as @e[type=item,nbt={Item:{id:"minecraft:oak_planks",Count:1b}},distance=..0.25] run kill @s
+execute as @e[tag=naaborotverstak] run execute at @s run execute positioned ~ ~1 ~ run execute as @e[type=item,nbt={Item:{id:"minecraft:oak_planks",Count:4b}},distance=..0.25] run kill @s
 
 # Верстак
 
 execute as @e[tag=naaborotverstak] run execute at @s run execute positioned ~ ~1 ~ run execute if entity @e[type=item,nbt={Item:{id:"minecraft:crafting_table",Count:1b}},distance=..0.25] run summon item ~ ~ ~ {Item:{id:"minecraft:oak_planks",Count:4b}}
 
+<<<<<<< HEAD
 execute as @e[tag=naaborotverstak] run execute at @s run execute positioned ~ ~1 ~ run execute as @e[type=item,nbt={Item:{id:"minecraft:crafting_table",Count:4b}},distance=..0.25] run kill @s
 
 # Железный слиток
@@ -25,3 +26,6 @@ execute as @e[tag=naaborotverstak] run execute at @s run execute positioned ~ ~1
 execute as @e[tag=naaborotverstak] run execute at @s run execute positioned ~ ~1 ~ run execute if entity @e[type=item,nbt={Item:{id:"minecraft:iron_ingot",Count:1b}},distance=..0.25] run summon item ~ ~ ~ {Item:{id:"minecraft:iron_nugget",Count:9b}}
 
 execute as @e[tag=naaborotverstak] run execute at @s run execute positioned ~ ~1 ~ run execute as @e[type=item,nbt={Item:{id:"minecraft:iron_ingot",Count:9b}},distance=..0.25] run kill @s
+=======
+execute as @e[tag=naaborotverstak] run execute at @s run execute positioned ~ ~1 ~ run execute as @e[type=item,nbt={Item:{id:"minecraft:crafting_table",Count:1b}},distance=..0.25] run kill @s
+>>>>>>> branch 'master' of https://github.com/grishko-ga/minecraft-datapack-25.git
