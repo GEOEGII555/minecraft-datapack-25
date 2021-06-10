@@ -15,13 +15,6 @@
   "result": {
     "item": "minecraft:endermite_spawn_egg",
     "count": 1,
-    "tag": {
-    	"display": {
-    		"Name": "\"verstak naaborot\""
-    	}
-    },
-    "display": {
-    	"Name": "\"Verstak naaborot\""
-    }
+    "tag": {"display":{"Name": "\"verstak naaborot\""}}
   }
 }'
