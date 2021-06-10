@@ -45,6 +45,15 @@
       "locked_code": true,
       "ids": {},
       "registry_name": "verstaknaoborotcraft"
+    },
+    {
+      "name": "Uncraft",
+      "type": "function",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "uncraft"
     }
   ],
   "variable_elements": [],
@@ -58,7 +67,7 @@
   },
   "workspaceSettings": {
     "modid": "verstacknazad",
-    "modName": "Верстак обратно",
+    "modName": "Г‚ГҐГ°Г±ГІГ ГЄ Г®ГЎГ°Г ГІГ­Г®",
     "version": "1.0.0",
     "author": "georg, MCreator",
     "websiteURL": "https://mcreator.net",
