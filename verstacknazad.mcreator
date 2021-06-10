@@ -24,7 +24,7 @@
       "type": "recipe",
       "sortid": 5,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {},
       "registry_name": "verstaknaoborotcraft"
     },
@@ -66,6 +66,24 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "uncraft"
+    },
+    {
+      "name": "Give",
+      "type": "function",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "give"
+    },
+    {
+      "name": "Givetrigger",
+      "type": "achievement",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "registry_name": "givetrigger"
     }
   ],
   "variable_elements": [],

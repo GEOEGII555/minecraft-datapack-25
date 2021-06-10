@@ -38,7 +38,7 @@
       }
     ],
     "recipeReturnStack": {
-      "value": "Items.SPAWN_EGG#67"
+      "value": "Items.KNOWLEDGE_BOOK"
     },
     "name": "verstak_naoborot",
     "namespace": "mod"

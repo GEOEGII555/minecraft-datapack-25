@@ -13,8 +13,7 @@
     }
   ],
   "result": {
-    "item": "minecraft:endermite_spawn_egg",
-    "count": 1,
-    "tag": {"display":{"Name": "\"verstak naaborot\""}}
+    "item": "minecraft:knowledge_book",
+    "count": 1
   }
-}'
+}
