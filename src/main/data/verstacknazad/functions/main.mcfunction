@@ -9,7 +9,9 @@ execute as @e[name="verstak naaborot"] run execute at @s run kill @s
 execute as @e[tag=naaborotverstak] run execute at @s run execute if block ~ ~ ~ air run summon item ~ ~ ~ {Item:{id:"minecraft:endermite_spawn_egg",Count:1,tag:{display:{Name:"\"verstak naaborot\""}}}}
 execute as @e[tag=naaborotverstak] run execute at @s run execute if block ~ ~ ~ air run kill @s
 execute as @e[tag=naaborotverstak] run execute at @s run execute if block ~ ~ ~ crafting_table run setblock ~ ~ ~ gold_block replace
-function verstacknazad:uncraft
+#function verstacknazad:uncraft
+/execute as @e[tag=naaborotverstak] run execute at @s run execute if block ~1 ~ ~ lever[powered=true,facing=east] run function verstacknazad:uncraft
+/execute as @e[tag=naaborotverstak] run execute at @s run execute if block ~1 ~ ~ lever[powered=true,facing=east] run setblock ~1 ~ ~ lever[powered=false,facing=east]
 execute as @e[type=ender_pearl,nbt={Item:{id:"minecraft:ender_pearl", Count:1b, tag:{display:{Name:'"Портал в мир верстаков"'}}}}] run execute at @s run give @p minecraft:ender_pearl{display:{Name:"\"Портал в мир верстаков\""}}
 execute as @e[type=ender_pearl,nbt={Item:{id:"minecraft:ender_pearl", Count:1b, tag:{display:{Name:'"Портал в мир верстаков"'}}}}] run execute at @s run execute as @p run execute in verstacknazad:verstak run tp @s ~ 40 ~
 execute as @e[type=ender_pearl,nbt={Item:{id:"minecraft:ender_pearl", Count:1b, tag:{display:{Name:'"Портал в мир верстаков"'}}}}] run execute at @s run kill @s
