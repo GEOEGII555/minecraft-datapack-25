@@ -1,6 +1,6 @@
 {
   "criteria": {
-    "givetrigger": {
+    "Unlocked": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
       	"recipe" : "verstacknazad:verstak_naoborot"
