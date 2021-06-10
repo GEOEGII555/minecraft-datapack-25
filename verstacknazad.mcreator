@@ -77,13 +77,13 @@
       "registry_name": "givetrigger"
     },
     {
-      "name": "Verstaknaoborotcraft",
-      "type": "recipe",
+      "name": "Particle",
+      "type": "function",
       "sortid": 12,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "verstaknaoborotcraft"
+      "registry_name": "particle"
     }
   ],
   "variable_elements": [],
