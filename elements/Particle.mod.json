@@ -2,7 +2,7 @@
   "_fv": 18,
   "_type": "function",
   "definition": {
-    "code": "particle minecraft:reverse_portal ~ ~-1 ~ 0.25 0 0.25 0.02 1000 force\nsummon minecraft:endermite ~ ~-1 ~ {CustomName:\"\\\"verstak naaborot\\\"\"}\nkill @e[distance=..0.702,type=item]",
+    "code": "particle minecraft:reverse_portal ~ ~ ~ 0.25 0 0.25 0.02 1000 force\nsummon minecraft:endermite ~ ~-1 ~ {CustomName:\"\\\"verstak naaborot\\\"\"}\nkill @e[distance=..0.702,type=item]",
     "name": "particle",
     "namespace": "mod"
   }
