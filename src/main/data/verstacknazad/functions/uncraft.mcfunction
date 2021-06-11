@@ -42,3 +42,17 @@ execute as @e[tag=naaborotverstak] run execute at @s run execute positioned ~ ~1
 execute as @e[tag=naaborotverstak] run execute at @s run execute positioned ~ ~1 ~ run execute if entity @e[type=item,nbt={Item:{id:"minecraft:oak_sing",Count:1b}},distance=..0.702] run summon item ~ ~ ~ {Item:{id:"minecraft:stick",Count:1b}}
 
 execute as @e[tag=naaborotverstak] run execute at @s run execute positioned ~ ~1 ~ run execute as @e[type=item,nbt={Item:{id:"minecraft:oak_sing",Count:1b}},distance=..0.702] run kill @s
+
+
+# Золотой блок 7
+
+execute as @e[tag=naaborotverstak] run execute at @s run execute positioned ~ ~1 ~ run execute if entity @e[type=item,nbt={Item:{id:"minecraft:gold_block",Count:1b}},distance=..0.702] run summon item ~ ~ ~ {Item:{id:"minecraft:gold_ingot",Count:9b}}
+
+execute as @e[tag=naaborotverstak] run execute at @s run execute positioned ~ ~1 ~ run execute as @e[type=item,nbt={Item:{id:"minecraft:gold_block",Count:1b}},distance=..0.702] run kill @s
+
+
+# Золотой слиток 8
+
+execute as @e[tag=naaborotverstak] run execute at @s run execute positioned ~ ~1 ~ run execute if entity @e[type=item,nbt={Item:{id:"minecraft:gold_ingot",Count:1b}},distance=..0.702] run summon item ~ ~ ~ {Item:{id:"minecraft:gold_nuggeet",Count:9b}}
+
+execute as @e[tag=naaborotverstak] run execute at @s run execute positioned ~ ~1 ~ run execute as @e[type=item,nbt={Item:{id:"minecraft:gold_ingot",Count:1b}},distance=..0.702] run kill @s
