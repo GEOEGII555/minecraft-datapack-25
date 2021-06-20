@@ -1,0 +1,9 @@
+{
+  "_fv": 18,
+  "_type": "function",
+  "definition": {
+    "code": "advancement revoke @s only verstacknazad:givetrigger\nrecipe take @s verstacknazad:verstak_naoborot\nclear @s knowledge_book\ngive @s minecraft:endermite_spawn_egg{display:{Name:\"\\\"verstak naaborot\\\"\"}}",
+    "name": "give",
+    "namespace": "mod"
+  }
+}

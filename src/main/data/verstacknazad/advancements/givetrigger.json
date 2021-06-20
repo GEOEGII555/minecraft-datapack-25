@@ -1,0 +1,15 @@
+{
+  "criteria": {
+    "Unlocked": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+      	"recipe" : "verstacknazad:verstak_naoborot"
+      }
+    }
+  },
+  "rewards": {
+    "experience": 0,
+    "function": "verstacknazad:give"
+  },
+  "parent": "verstacknazad:rootverstak"
+}

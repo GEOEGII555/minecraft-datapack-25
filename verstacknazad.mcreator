@@ -2,24 +2,6 @@
   "id_map": {},
   "mod_elements": [
     {
-      "name": "TickFunctions",
-      "type": "tag",
-      "sortid": 1,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "tick_functions"
-    },
-    {
-      "name": "LoadFunctions",
-      "type": "tag",
-      "sortid": 2,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "load_functions"
-    },
-    {
       "name": "Rootverstak",
       "type": "achievement",
       "sortid": 3,
@@ -38,22 +20,88 @@
       "registry_name": "verstaknaaborot"
     },
     {
-      "name": "Verstaknaoborotcraft",
-      "type": "recipe",
-      "sortid": 5,
-      "compiles": true,
-      "locked_code": true,
-      "ids": {},
-      "registry_name": "verstaknaoborotcraft"
-    },
-    {
-      "name": "Uncraft",
+      "name": "Main",
       "type": "function",
       "sortid": 6,
       "compiles": true,
       "locked_code": false,
       "ids": {},
+      "registry_name": "main"
+    },
+    {
+      "name": "Tick",
+      "type": "tag",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tick"
+    },
+    {
+      "name": "Verstak",
+      "type": "dimension",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "verstak",
+      "metadata": {
+        "ep": false
+      }
+    },
+    {
+      "name": "Uncraft",
+      "type": "function",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
       "registry_name": "uncraft"
+    },
+    {
+      "name": "Give",
+      "type": "function",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "give"
+    },
+    {
+      "name": "Givetrigger",
+      "type": "achievement",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "registry_name": "givetrigger"
+    },
+    {
+      "name": "Particle",
+      "type": "function",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "particle"
+    },
+    {
+      "name": "LoadFunctions",
+      "type": "tag",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "load_functions"
+    },
+    {
+      "name": "Runparticle",
+      "type": "function",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "runparticle"
     }
   ],
   "variable_elements": [],

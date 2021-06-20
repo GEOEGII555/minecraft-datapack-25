@@ -1,0 +1,9 @@
+{
+  "_fv": 18,
+  "_type": "function",
+  "definition": {
+    "code": "schedule function verstacknazad:runparticle 1s\nexecute as @e[type=item,nbt={Item:{id:\"minecraft:anvil\",Count:1b}}] run execute at @s run execute if entity @e[type=item,distance=..0.702,nbt={Item:{id:\"minecraft:diamond\",Count:1b}}] run execute if block ~ ~-0.25 ~ crafting_table run function verstacknazad:particle",
+    "name": "runparticle",
+    "namespace": "mod"
+  }
+}

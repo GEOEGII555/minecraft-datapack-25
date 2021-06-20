@@ -2,15 +2,15 @@
   "_fv": 18,
   "_type": "achievement",
   "definition": {
-    "achievementName": "Верстак наоборот",
-    "achievementDescription": "Что-бы сделать верстак-наоборот Выкиньте на обычный верстак 1х алмаз и 1х наковальня",
+    "achievementName": "Crafting table revers",
+    "achievementDescription": "To craft crafting table revers, open regular crafting table, and place crafting table, anvil and diamond. Place crafting table revers. You will see gold block, use it. Other normal gold block not working, only crafted by this. How to Uncraft: Drop on your crafting table (Appeared gold block) item you want to uncraft. Place lever on any of side or under gold block, and click. You done!",
     "achievementIcon": {
       "value": "Blocks.CRAFTING_TABLE"
     },
     "background": "Default",
     "disableDisplay": false,
-    "showPopup": true,
-    "announceToChat": true,
+    "showPopup": false,
+    "announceToChat": false,
     "hideIfNotCompleted": false,
     "rewardLoot": [],
     "rewardRecipes": [],
